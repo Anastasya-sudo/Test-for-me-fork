@@ -12,7 +12,7 @@ int main() {
     cout << "Введите число: ";
     cin >> number;
 
-    cout << "Факториал числаfff " << number << " равен " << factorial(number) << endl;
+    cout << "Факториал_числаfff " << number << " равен " << factorial(number) << endl;
 
     return 0;
 }
